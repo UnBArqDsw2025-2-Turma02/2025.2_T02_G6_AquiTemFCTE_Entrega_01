@@ -65,11 +65,12 @@ Este é o prefixo obrigatório que indica o tipo de mudança. Use os mesmos pref
 - `docs`: Mudanças na documentação.
 - `style`: Mudanças de formatação que não alteram a lógica do código (espaçamento, ponto e vírgula, etc.).
 - `refactor`: Mudança no código que não adiciona uma funcionalidade nem corrige um bug.
-- `chore`: Atualizações de build, ferramentas, bibliotecas ou tarefas de manutenção.
+- `chore`: atualizações de tarefas de build, configurações de administrador ou pacotes.
 - `test`: Adição ou atualização de testes.
 - `perf`: Melhorias de performance.
 - `ci`: Mudanças nos arquivos e scripts de integração contínua (CI).
 - `revert`: Reverte um commit anterior.
+- `build`: utilizados quando são realizadas modificações em arquivos de build e dependências.
 
 2. **Escopo (`(<escopo>)`)**
 
