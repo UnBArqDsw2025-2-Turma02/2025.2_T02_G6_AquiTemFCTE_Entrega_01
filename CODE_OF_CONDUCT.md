@@ -71,4 +71,15 @@ A liderança da comunidade seguirá estas Diretrizes de Impacto na Comunidade pa
 
 ## Atribuição
 
-Este Código de Conduta é adaptado do [Contributor Covenant, versão 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 2.1, disponível em [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+
+As Diretrizes de Impacto na Comunidade foram inspiradas pela
+[Aplicação do código de conduta Mozilla][Mozilla CoC].
+
+Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (FAQ) em [https://www.contributor-covenant.org/faq][FAQ]. Traduções estão disponíveis em [https://www.contributor-covenant.org/translations][translations].
+
+[homepage]: https://www.contributor-covenant.org
+[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+[Mozilla CoC]: https://github.com/mozilla/diversity
+[FAQ]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations

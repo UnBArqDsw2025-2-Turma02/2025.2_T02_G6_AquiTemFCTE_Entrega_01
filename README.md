@@ -19,6 +19,22 @@ O projeto foi concebido no âmbito da disciplina de Arquitetura e Desenho de Sof
 ## 📝 Acesse a Documentação!
 _(Em Breve)_
 
+## ⚙️ Configurando o Ambiente:
+
+Para iniciar sua contribuição ao projeto, primeiro clone o repositório em sua máquina local com o comando abaixo:
+
+```bash
+git clone https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G6_AquiTemFCTE_Entrega_01.git
+```
+
+Após isso, instale as dependências de desenvolvimento com a utilização do `npm` com o comando abaixo:
+
+```bash
+npm install
+```
+
+Pronto! Agora o seu ambiente está configurado para dar início às contribuições. Para configurar o Docsify, siga os passos do próximo tópico.
+
 ## 🚀 Tecnologia
 
 A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
@@ -42,7 +58,18 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
-## 👩‍💻 Contribuidores
+
+## 🧪 Construído com:
+- [Contributor Covenant](https://www.contributor-covenant.org/) - Utilizado para o [Código de Conduta](./CODE_OF_CONDUCT.md).
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Utilizado como Padrão de Commits no [Guia de Contribuição](./CONTRIBUTING.md).
+- [GitHub Flow](https://docs.github.com/pt/get-started/using-github/github-flow) - Utilizado como Política de Branchs no [Guia de Contribuição](./CONTRIBUTING.md).
+- [Docsify](https://docsify.js.org/#/) - Utilizado para a documentação do Projeto.
+
+## 📃 Contribuição:
+
+Leia o arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para mais detalhes e regras para o desenvolvimento, junto ao [Código de Conduta](./CODE_OF_CONDUCT.md) também disponível. Contribuições que fujam destas regras serão recusadas pelos mantenedores do projeto.
+
+## 👩‍💻 Mantenedores:
 
 <center> 
   
@@ -50,66 +77,65 @@ docsify serve ./docs
   <tr>
     <td align="center">
       <a href="https://github.com/Algusto-RC">
-        <img style="border-radius: 50%;" src="https://github.com/Algusto-RC.png" width="100px;"/><br />
+        <img src="https://github.com/Algusto-RC.png"/><br />
         <sub><b>Algusto Rodrigues</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/caiomsabino">
-        <img style="border-radius: 50%;" src="https://github.com/caiomsabino.png" width="100px;"/><br />
+        <img src="https://github.com/caiomsabino.png"/><br />
         <sub><b>Caio Lucas</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/DanielRogs">
-        <img style="border-radius: 50%;" src="https://github.com/DanielRogs.png" width="100px;"/><br />
+        <img src="https://github.com/DanielRogs.png"/><br />
         <sub><b>Daniel Rodrigues</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Davicamilo23">
-        <img style="border-radius: 50%;" src="https://github.com/Davicamilo23.png" width="100px;"/><br />
+        <img src="https://github.com/Davicamilo23.png"/><br />
         <sub><b>Davi Camilo</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/rabelzx">
-        <img style="border-radius: 50%;" src="https://github.com/rabelzx.png" width="100px;"/><br />
+        <img src="https://github.com/rabelzx.png"/><br />
         <sub><b>Eric Rabelo</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/felipeacampelo">
-        <img style="border-radius: 50%;" src="https://github.com/felipeacampelo.png" width="100px;"/><br />
+        <img src="https://github.com/felipeacampelo.png"/><br />
         <sub><b>Felipe de Aquino</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/IgorJustino">
-        <img style="border-radius: 50%;" src="https://github.com/IgorJustino.png" width="100px;"/><br />
+        <img src="https://github.com/IgorJustino.png"/><br />
         <sub><b>Igor Justino</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/isaqzin">
-        <img style="border-radius: 50%;" src="https://github.com/isaqzin.png" width="100px;"/><br />
+        <img src="https://github.com/isaqzin.png"/><br />
         <sub><b>Isaque Camargos</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/lcsgborges">
-        <img style="border-radius: 50%;" src="https://github.com/lcsgborges.png" width="100px;"/><br />
+        <img src="https://github.com/lcsgborges.png"/><br />
         <sub><b>Lucas Guimarães</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ludmilaaysha">
-        <img style="border-radius: 50%;" src="https://github.com/ludmilaaysha.png" width="100px;"/><br />
+        <img src="https://github.com/ludmilaaysha.png"/><br />
         <sub><b>Ludmila Aysha</b></sub>
       </a>
     </td>
   </tr>
 </table>
-
 
 </center>

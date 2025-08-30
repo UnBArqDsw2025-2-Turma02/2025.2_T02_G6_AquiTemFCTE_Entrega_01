@@ -104,9 +104,16 @@ Closes #123
 
 **Utilizando o Commitizen**
 
-Para garantir que todos os commits sigam este padrão, usamos o Commitizen. Para fazer um commit, em vez de usar `git commit -m "..."`, execute o seguinte comando:
+Para garantir que todos os commits sigam este padrão, usamos o Commitizen. Para fazer um commit, primeiro instale as dependências do repositório com:
 
 ```bash
+npm install
+```
+
+Depois, ao invés de utilizar `git commit -m "..."` para commitar suas alterações, utilize apenas UM DOS comandos abaixo (o  que você achar melhor):
+
+```bash
+git commit
 git cz
 ```
 
@@ -124,7 +131,7 @@ Siga estas instruções para preencher o template corretamente:
 5. **Checklist de Checagem**: Antes de enviar, complete o checklist. Isso garante que sua contribuição está pronta para ser revisada, sem erros de formatação, e que os testes e a documentação foram atualizados.
 6. **Capturas de Tela**: Se a sua mudança envolve a interface do usuário, adicione capturas de tela ou GIFs. Isso facilita muito a visualização da sua alteração.
 
-**Atenção**: Seu PR **NÃO** será mesclado sem a aprovação de pelo menos um dos mantenedores do projeto ou depadronização com o template de Pull Request oferecido. O processo de **Code Review** é essencial para a qualidade do nosso código. Seja paciente e responda a qualquer feedback dos revisores.
+**Atenção**: Seu PR **NÃO** será mesclado sem a aprovação de pelo menos um dos mantenedores do projeto ou depadronização com o [Template de Pull Request](./.github/pull_request_template.md) oferecido. O processo de **Code Review** é essencial para a qualidade do nosso código. Seja paciente e responda a qualquer feedback dos revisores.
 
 ## Obrigado pela sua contribuição!
 Agradecemos imensamente por sua vontade de contribuir para este projeto. Ao seguir estas diretrizes, você não apenas melhora a qualidade do nosso código, mas também torna o processo de colaboração mais agradável e produtivo para todos. Sua dedicação e respeito aos padrões estabelecidos são fundamentais para o sucesso contínuo do projeto.
