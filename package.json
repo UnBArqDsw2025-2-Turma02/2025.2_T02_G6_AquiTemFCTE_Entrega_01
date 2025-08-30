@@ -1,0 +1,36 @@
+{
+  "name": "2025.1-t01-_g6_aquitemfcte_entrega_01",
+  "version": "1.0.0",
+  "description": "![Capa AquiTemFCTE](./assets/AquiTemFCTE.png)",
+  "homepage": "https://github.com/UnBArqDsw2025-2-Turma02/2025.1-T01-_G6_AquiTemFCTE_Entrega_01#readme",
+  "bugs": {
+    "url": "https://github.com/UnBArqDsw2025-2-Turma02/2025.1-T01-_G6_AquiTemFCTE_Entrega_01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnBArqDsw2025-2-Turma02/2025.1-T01-_G6_AquiTemFCTE_Entrega_01.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "commit": "npx cz",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.1.7"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
