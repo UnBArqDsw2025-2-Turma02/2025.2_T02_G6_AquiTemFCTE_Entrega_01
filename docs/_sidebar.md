@@ -11,4 +11,5 @@
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Conhecimento da Equipe](/Extra/1.5.1.ConhecimentoDaEquipe.md)
+      - [1.5.2 Disponibilidade da Equipe](/Extra/1.5.2.DisponibilidadeDaEquipe.md)
 
