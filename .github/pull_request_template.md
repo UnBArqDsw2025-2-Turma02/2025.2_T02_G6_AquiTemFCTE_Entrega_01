@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Proponha uma alteração para o projeto.
-title: 'tipo: breve descrição da mudança'
-labels: ''
-assignees: ''
-
----
-
 ## 🚀 Tipo da sua alteração
 - [ ] `feat`: Uma nova funcionalidade.
 - [ ] `fix`: Uma correção de bug.
