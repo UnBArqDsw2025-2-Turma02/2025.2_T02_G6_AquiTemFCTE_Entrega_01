@@ -17,4 +17,6 @@
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Conhecimento da Equipe](/Extra/1.5.1.ConhecimentoDaEquipe.md)
-
+  - [2. Rastreabilidade](/Base/2.Rastreabilidade.md)
+    - [2.1. Atas](/Base/2.1.Atas.md) 
+      - [2.1.1. Ata 01 - 27/08/2025](/Base/2.1.1.Ata01.md) 
