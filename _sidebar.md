@@ -15,6 +15,7 @@
       - [1.2.2. Diagrama de Ishikawa](./Base/1.2.2.DiagramaIshikawa.md)
       - [1.2.3. Rich Picture](./Base/1.2.3.RichPicture.md)
       - [1.2.4. 5W2H](./Base/1.2.4.5W2H.md)
+      - [1.2.5. Léxico](./Base/1.2.5.Léxico.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
