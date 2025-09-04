@@ -24,4 +24,5 @@
       - [1.5.2 Disponibilidade da Equipe](/Extra/1.5.2.DisponibilidadeDaEquipe.md)
 
   - [2. Atas]()
-      - [2.1. Ata 01 - 27/08/2025](/Base/2.1.1.Ata01.md) 
+      - [2.1. Ata 01 - 27/08/2025](/Base/2.1.Ata01.md) 
+      - [2.2. Ata 02 - 01/09/2025](/Base/2.2.Ata02.md)
