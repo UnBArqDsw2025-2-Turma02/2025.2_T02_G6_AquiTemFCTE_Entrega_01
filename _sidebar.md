@@ -17,7 +17,7 @@
       - [1.2.4. 5W2H](./Base/1.2.4.5W2H.md)
       - [1.2.5. Léxico](./Base/1.2.5.Léxico.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
-      - [1.3.1. BPMN Kanban](/Base/1.3.1BPMNKanban.md)
+      - [1.3.1. BPMN Kanban](/Base/1.3.1.BPMNKanban.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Conhecimento da Equipe](/Extra/1.5.1.ConhecimentoDaEquipe.md)
