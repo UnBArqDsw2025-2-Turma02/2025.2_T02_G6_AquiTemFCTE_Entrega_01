@@ -25,20 +25,24 @@ O AquiTemFCTE é uma plataforma digital que busca atender às necessidades da co
 O projeto foi concebido no âmbito da disciplina de Arquitetura e Desenho de Software (UnB - 2025.2) e visa solucionar a dificuldade que muitos alunos têm em encontrar canais confiáveis para negociar produtos dentro do próprio campus. A plataforma centraliza essas atividades e otimiza a experiência do usuário, oferecendo recursos de pesquisa, categorização de produtos e perfis de usuário verificados.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+### 5W2H (Artefato Generalista):
+![5W2H](/../assets/AqDsSw5W2H.jpg)
+
+### Diagrama Ishikawa (Artefato Generalista):
+![Diagrama Ishikawa](/../assets/diagramaIshikawa/DiagramaIshikawaLucas.jpg)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+(x) NÃO
 
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Nenhuma informação complementar.
 
 ## Histórico de Versões
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da Revisão |
 | -- | -- | -- | -- | -- | -- |
-| 1.0 | 29/08/2025 | Criação do Documento | Felipe Campelo | | |
+| 1.0 | 29/08/2025 | Criação do Documento | [Felipe Campelo](https://github.com/felipeacampelo) | [Daniel Rodrigues](https://github.com/DanielRogs) | 29/08/2025 |
+| 1.1 | 05/09/2025 | Acrescenta screenshots e execução | [Daniel Rodrigues](https://github.com/DanielRogs) | [Davi Camilo](https://github.com/Davicamilo23) | 29/08/2025 |
