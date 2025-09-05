@@ -18,14 +18,14 @@
       - [1.2.5. Léxico](./Base/1.2.5.Léxico.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
       - [1.3.1. BPMN Kanban](/Base/1.3.1.BPMNKanban.md)
-
-      - [1.3.3. BPMN do Software](/Base/1.3.3.BPMNSoftware.md)
       - [1.3.2. BPMN Scrum](/Base/1.3.2.BPMNScrum.md)
+      - [1.3.3. BPMN do Software](/Base/1.3.3.BPMNSoftware.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Conhecimento da Equipe](/Extra/1.5.1.ConhecimentoDaEquipe.md)
       - [1.5.2. Disponibilidade da Equipe](/Extra/1.5.2.DisponibilidadeDaEquipe.md)
-
+      - [1.5.3. Backlog do Produto](/Extra/1.5.3.BacklogDoProduto.md)
+      - [1.5.4. Marca AquiTemFCTE](/Extra/1.5.4.MarcaAquiTemFCTE.md)
   - [2. Atas]()
       - [2.1. Ata 01 - 27/08/2025](/Base/2.1.Ata01.md) 
       - [2.2. Ata 02 - 01/09/2025](/Base/2.2.Ata02.md)
