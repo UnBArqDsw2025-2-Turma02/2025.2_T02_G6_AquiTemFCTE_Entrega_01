@@ -1,11 +1,11 @@
 # AquiTemFCTE
 
-
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: 06<br>
-**Entrega**: 01<br>
+**Código da Disciplina**: FGA0208 <br>
+**Número do Grupo**: 06 <br>
+**Entrega**: 01 <br>
 
 ## Alunos
+
 |Matrícula | Aluno |
 | -- | -- |
 | 20/2017521  |  Algusto Rodrigues |
@@ -19,18 +19,23 @@
 | 22/2015159  |  Lucas Guimarães |
 | 23/1026750  |  Ludmila Aysha |
 
-## Sobre 
+## Sobre
+
 O AquiTemFCTE é uma plataforma digital que busca atender às necessidades da comunidade universitária da Universidade de Brasília (UnB) do Campus Faculdade de Ciências e Tecnologias em Engenharia (FCTE). Nosso principal objetivo é facilitar a compra, venda e troca de itens novos e usados exclusivamente entre os estudantes da universidade, criando um ambiente seguro e confiável para transações.
 
 O projeto foi concebido no âmbito da disciplina de Arquitetura e Desenho de Software (UnB - 2025.2) e visa solucionar a dificuldade que muitos alunos têm em encontrar canais confiáveis para negociar produtos dentro do próprio campus. A plataforma centraliza essas atividades e otimiza a experiência do usuário, oferecendo recursos de pesquisa, categorização de produtos e perfis de usuário verificados.
 
 ## Screenshots da Primeira Entrega
 
-### 5W2H (Artefato Generalista):
-![5W2H](/../assets/AqDsSw5W2H.jpg)
+### 5W2H (Artefato Generalista)
 
-### Diagrama Ishikawa (Artefato Generalista):
-![Diagrama Ishikawa](/../assets/diagramaIshikawa/DiagramaIshikawaLucas.jpg)
+![5W2H](assets/AqDsSw5W2H.jpg)
+
+### Diagrama Ishikawa (Artefato Generalista)
+
+![Diagrama Ishikawa](assets/diagramaIshikawa/DiagramaIshikawaFinal.png)
+
+> Link para visualização melhor do diagrama de Ishiwaka [aqui](https://www.canva.com/design/DAGxrmTmKyQ/qqG6JT8aMqrORd5OdtH30Q/view?utm_content=DAGxrmTmKyQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
 
 ## Há algo a ser executado?
 
@@ -38,10 +43,12 @@ O projeto foi concebido no âmbito da disciplina de Arquitetura e Desenho de Sof
 
 (x) NÃO
 
-## Informações Complementares 
+## Informações Complementares
+
 Nenhuma informação complementar.
 
 ## Histórico de Versões
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da Revisão |
 | -- | -- | -- | -- | -- | -- |
 | 1.0 | 29/08/2025 | Criação do Documento | [Felipe Campelo](https://github.com/felipeacampelo) | [Daniel Rodrigues](https://github.com/DanielRogs) | 29/08/2025 |
