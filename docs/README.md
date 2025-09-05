@@ -45,4 +45,4 @@ Nenhuma informação complementar.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da Revisão |
 | -- | -- | -- | -- | -- | -- |
 | 1.0 | 29/08/2025 | Criação do Documento | [Felipe Campelo](https://github.com/felipeacampelo) | [Daniel Rodrigues](https://github.com/DanielRogs) | 29/08/2025 |
-| 1.1 | 05/09/2025 | Acrescenta screenshots e execução | [Daniel Rodrigues](https://github.com/DanielRogs) | [Davi Camilo](https://github.com/Davicamilo23) | 29/08/2025 |
+| 1.1 | 05/09/2025 | Acrescenta screenshots e execução | [Daniel Rodrigues](https://github.com/DanielRogs) | [Davi Camilo](https://github.com/Davicamilo23) | 05/09/2025 |
